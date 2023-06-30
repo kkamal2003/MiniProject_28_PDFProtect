@@ -1,5 +1,13 @@
 # ThaparSummerSchool_2k23 Cheat Sheet
 
+## PDF PROTECT  
+
+  ![image](https://github.com/kkamal2003/MiniProject_28_PDFProtect/assets/126082752/f999d50b-c624-4b50-947c-18b39708ddc0)  
+  UPLOAD PDF FILE  
+  
+  ENTER YOUR PASSWORD AND YOUR EMAIL
+
+
 ## Step1. Install , create and activate virtualenv<br>
 
 ## Step2. Start Django project<br>
@@ -110,4 +118,3 @@ Login by going to the prebuilt django admin panel at  http://127.0.0.1:8000/admi
 
 
 ![ad2](https://github.com/harjasdt/ThaparSummerSchool_2k23/assets/68768529/80dd5b48-8c21-4dad-b0d2-a10d9c7048ce)
-
